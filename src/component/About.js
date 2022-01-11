@@ -13,7 +13,7 @@ export default function About() {
           <div className="clearfix" id="about">
             <img src="img/f.png" className="figure-img img-fluid rounded" alt="me" />
             <p>Hai, perkenalkan saya Azzelya Rosya Denovya. Saya berasal dari SMKN 1 Kota Bekasi. Jurusan saya adalah Rekayasa Perangkat Lunak, merupakan jurusan Programming dan menyukai lebih dalam tentang Front-end Development.</p>
-            <hr />
+
             <h5>Skills</h5>
 
             <p>
