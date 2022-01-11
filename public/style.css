@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Karla:wght@300&display=swap');
 body {
   min-height: 1500px;
+  scrollbar-width: none;
 }
 
 h2 {
@@ -37,7 +38,7 @@ h2 {
 
 .clearfix img {
   float: right;
-  width: 215px;
+  width: 230px;
 }
 
 .display-4 {
