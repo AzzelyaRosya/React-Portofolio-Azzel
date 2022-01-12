@@ -32,8 +32,8 @@ export default function Footer() {
           </section>
         </div>
 
-        <div class="text-center text-dark p-3" style={{ backgroundColor: '#037a74af' }}>
-          ©️ 2022 Copyright:
+        <div class="text-center text-dark p-4" style={{ backgroundColor: '#037a74af' }}>
+          ©️ 2022 Copyright :
           <a class="text-dark" href="#">
             AzzelyaRosya.com
           </a>

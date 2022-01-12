@@ -10,8 +10,9 @@ export default function Contact() {
               <h2>Contact</h2>
             </div>
           </div>
+
           <div className="row justify-content-center">
-            <div className="col-md-6">
+            <div className="col-md-5">
               <form>
                 <div className="mb-3">
                   <label for="nama" className="form-label">
