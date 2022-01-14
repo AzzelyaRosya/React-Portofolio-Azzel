@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <div id="about">
+      <div id="about" data-aos="flip-up">
         <div className="container">
           <div className="row text-center">
             <div className="col">

@@ -32,7 +32,7 @@ export default function Contact() {
                   </label>
                   <textarea className="form-control" id="pesan" rows="3"></textarea>
                 </div>
-                <button type="submit" className="btn btn-primary" style={{ backgroundColor: '#000', color: '#fff', border: 'none' }}>
+                <button type="submit" className="btn btn-primary bg-secondary" style={{ color: '#fff', border: 'none' }}>
                   Submit
                 </button>
               </form>
