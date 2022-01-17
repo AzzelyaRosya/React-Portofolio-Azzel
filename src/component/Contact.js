@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <div>
-      <section id="contact">
+      <section id="contact" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
         <div className="container">
           <div className="row text-center">
             <div className="col">

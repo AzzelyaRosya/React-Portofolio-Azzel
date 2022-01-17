@@ -3,7 +3,7 @@ import React from 'react';
 export default function Project() {
   return (
     <div>
-      <section id="project" style={{ backgroundColor: '#dffaf9' }}>
+      <section id="project" style={{ backgroundColor: '#fff' }}>
         <div class="container">
           <div class="row text-center">
             <div class="col" data-aos="zoom-in-left">
