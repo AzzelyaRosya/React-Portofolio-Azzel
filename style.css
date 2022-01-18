@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Karla:wght@300&display=swap');
+body {
+  min-height: 500px;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bolder;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #dffaf9;
+  height: 620px;
+}
+
+#about h2,
+#project h2,
+#contact h2 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#about h5 {
+  text-align: center;
+}
+
+#project h4 {
+  padding: 10px;
+}
+
+#about p {
+  font-family: 'Karla', sans-serif;
+  color: #000;
+}
+
+.clearfix img {
+  float: right;
+  width: 230px;
+}
+
+.display-4 {
+  color: #000;
+}
+
+#project {
+  background-color: #dffaf9;
+}
