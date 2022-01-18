@@ -15,22 +15,22 @@ export default function Header() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" to="/">
+                <Link className="nav-link" aria-current="page" to="/React-Portofolio-Azzel/">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/about">
+                <Link className="nav-link" to="/React-Portofolio-Azzel/about">
                   About
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/project">
+                <Link className="nav-link" to="/React-Portofolio-Azzel/project">
                   Project
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact">
+                <Link className="nav-link" to="/React-Portofolio-Azzel/contact">
                   Contact
                 </Link>
               </li>

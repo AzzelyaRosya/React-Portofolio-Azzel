@@ -1,4 +1,5 @@
 import React from 'react';
+import f from '../img/f.png';
 
 export default function About() {
   return (
@@ -11,7 +12,7 @@ export default function About() {
             </div>
           </div>
           <div className="clearfix" id="about">
-            <img src="img/f.png" className="figure-img img-fluid rounded" alt="me" />
+            <img src={f} className="figure-img img-fluid rounded" alt="me" />
             <p>Hai, perkenalkan saya Azzelya Rosya Denovya. Saya berasal dari SMKN 1 Kota Bekasi. Jurusan saya adalah Rekayasa Perangkat Lunak, merupakan jurusan Programming dan menyukai lebih dalam tentang Front-end Development.</p>
             <hr />
             <h5>Skills</h5>

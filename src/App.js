@@ -14,10 +14,10 @@ function App(props) {
         <Header />
 
         <Switch>
-          <Route exact path="/" component={Banner} />
-          <Route path="/about" component={About} />
-          <Route path="/project" component={Project} />
-          <Route path="/contact" component={Contact} />
+          <Route exact path="/React-Portofolio-Azzel/" component={Banner} />
+          <Route path="/React-Portofolio-Azzel/about" component={About} />
+          <Route path="/React-Portofolio-Azzel/project" component={Project} />
+          <Route path="/React-Portofolio-Azzel/contact" component={Contact} />
         </Switch>
         <Footer />
       </div>
