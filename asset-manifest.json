@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/React-Portofolio-Azzel/static/js/main.a4ada225.js",
+    "main.js": "/React-Portofolio-Azzel/static/js/main.6a546adb.js",
+    "static/media/perpus.png": "/React-Portofolio-Azzel/static/media/perpus.531fde46402c73424440.png",
+    "static/media/ajjelcans.png": "/React-Portofolio-Azzel/static/media/ajjelcans.707f4c0d1b6d7e38e702.png",
+    "static/media/f.png": "/React-Portofolio-Azzel/static/media/f.fe7085ef0b5c906c8fe5.png",
+    "static/media/kalku.png": "/React-Portofolio-Azzel/static/media/kalku.780e8b429bdf973121b2.png",
     "index.html": "/React-Portofolio-Azzel/index.html",
-    "main.a4ada225.js.map": "/React-Portofolio-Azzel/static/js/main.a4ada225.js.map"
+    "main.6a546adb.js.map": "/React-Portofolio-Azzel/static/js/main.6a546adb.js.map"
   },
   "entrypoints": [
-    "static/js/main.a4ada225.js"
+    "static/js/main.6a546adb.js"
   ]
 }

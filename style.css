@@ -42,6 +42,7 @@ h2 {
 .clearfix img {
   float: right;
   width: 230px;
+  align-items: right;
 }
 
 .display-4 {
